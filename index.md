@@ -446,7 +446,7 @@ ISE          398    Miscellaneous<br>
 
 # Contact Information
 
-#### [LinkedIn](https://linkedin.com/in/harrison-ernst-61746119b)
+#### [LinkedIn](https://www.linkedin.com/in/harry-ernst)
 
 #### Email: [harry@ernst.site](mailto:harry@ernst.site)
 

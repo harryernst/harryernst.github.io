@@ -275,6 +275,90 @@ function carousel() {
 </head>
 </html>
 
+# References and Awards
+
+
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+}
+
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  height: 40%;
+  padding: 20px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <div class="container">
+         <a href="./award.pdf">
+         <img src="./reference.png" style="width:100%" class="image">
+         </a>
+       <a href="./award.pdf">
+      <div class="content">
+        <h2>Dr. Chengshan Xiao</h2>
+        <p>Affiliation: Professor and Chair Electrical & Computer Engineering Dept. at Lehigh University</p>
+       </div>
+      </a>
+    </div>
+  </div>
+    <div class="column">
+      <div class="container">
+           <a href="./reference.pdf">
+            <img src="./reference.png" style="width:100%" class="image">
+          </a>
+        <a href="./reference.pdf">
+        <div class="content">
+          <h2>Ms. Nancy Miller</h2>
+          <p>Affiliation: Former Boss at Triumph Group</p>
+       </div>
+         </a> 
+    </div>
+   </div>
+</div>
+
+</body>
+</html>
+
+
+
 # Classroom Experience
 
 

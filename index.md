@@ -357,7 +357,30 @@ function carousel() {
 </body>
 </html>
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <br>
+  <br>
+  <br>
+</body>
+</head>
+</html>
 
+ 
+***
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body>
+  <br>
+  <br>
+  <br>
+</body>
+</head>
+</html>
 
 # Classroom Experience
 

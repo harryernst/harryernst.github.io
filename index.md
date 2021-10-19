@@ -329,7 +329,7 @@ function carousel() {
   <div class="column">
     <div class="container">
          <a href="./award.pdf">
-         <img src="./reference.png" style="width:100%" class="image">
+         <img src="./award.png" style="width:100%" class="image">
          </a>
        <a href="./award.pdf">
       <div class="content">

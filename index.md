@@ -387,7 +387,17 @@ ECE         125     Circuits and Systems<br>
 ECE         132     Microcontroller Laboratory<br>
 ECE         203     Introduction to Electromagnetic Waves<br>
 GERM    296     Germany in Text, Sound, and Image<br>
+ECE 136 Electromechanics<br>
+ECE 257 Senior Lab I<br>
+ECE 341 Fundamentals of Wireless Communications<br>
+ECE 361 Introduction to VLSI Circuits<br>
+GERM 150 (163) German Special Topics (German Civilization and Culture)<br><br>
 
+Spring 2022:<br>
+ECE 258 Senior Lab II<br>
+ECE 322 Intro to Photovoltaic Energy Sys<br>
+ECE 308 Physics & Models of Electronic Devices<br>
+GERM 2**<br>
 
     </td>
     <!-- BREAK -->

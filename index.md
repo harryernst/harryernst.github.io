@@ -26,7 +26,7 @@
 <div class="row">
     <div class="column1">
     <h1>About Me</h1> 
-    <h3>I was a senior Electrical Engineering and German student-athlete at Lehigh University.
+    <h3>I am a senior Electrical Engineering and German student-athlete at Lehigh University.
 My experience as a varsity athlete and as a dual major student at Lehigh and Hochschule Pforzheim in Germany have instilled in me a better understanding of both crucial engineering concepts and team engagement strategies.
 <br><br>
 My curiosity for electricity led me to explore electrical engineering fundamentals further and create my own electronic devices. After fixing and designing many electrical apparatus, I am ready to proceed into the professional world.</h3> 
